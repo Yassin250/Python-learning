@@ -8,4 +8,4 @@ def main():
    total_area = house_area + yard_area
    print(str(total_area) + " total square feet")
 
-main()    
+main()
